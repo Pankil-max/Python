@@ -1,0 +1,12 @@
+# to make tupple of single digit use int, 
+# tup=(1,2,3,4,5,6,7,8)
+# l1=list(tup)
+# l1.append(34)
+# l1.pop(2)
+# print(l1)
+# l1=("nepal","india","bangladesh")
+# l2=("nepal","india","bangladesh")
+# print(l1+l2)
+t1=(0,1,2,3,4,5,6,7,8,3,4,3,5,3,3,3)
+# print(t1.count(3))
+print(t1.index(3))
